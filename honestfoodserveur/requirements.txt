@@ -1,0 +1,10 @@
+pip==19.1.1
+Flask==1.0.2
+gunicorn==19.9.0
+Werkzeug
+tensorflow
+numpy==1.16.1
+flask_cors
+Pillow==5.4.1
+scipy==1.2.0
+matplotlib

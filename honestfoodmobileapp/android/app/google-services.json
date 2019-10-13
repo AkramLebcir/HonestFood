@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699438126128",
+    "firebase_url": "https://honestfood-345d0.firebaseio.com",
+    "project_id": "honestfood-345d0",
+    "storage_bucket": "honestfood-345d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699438126128:android:c2e35a4cdc4ac6d95b09f5",
+        "android_client_info": {
+          "package_name": "com.akramlebcir.mac.honestfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699438126128-ql9fe6b4fjnusopje5q38p69674pu3rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akramlebcir.mac.honestfood",
+            "certificate_hash": "97d9b3c635de15967db49f59b99f808aeb39fb51"
+          }
+        },
+        {
+          "client_id": "699438126128-ojcn3vspin4n1qpqd6frds63h23e9g3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ3_rr4Hv5fFqfrmM8mDCbbnFpgKb_P-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699438126128-ojcn3vspin4n1qpqd6frds63h23e9g3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699438126128-ar7o8eng5oq4abmqf2249b864hs09kqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akramlebcir.mac.honestfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
