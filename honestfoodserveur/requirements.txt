@@ -5,6 +5,6 @@ Werkzeug
 tensorflow
 numpy==1.16.1
 flask_cors
-Pillow==5.4.1
+Pillow==9.3.0
 scipy==1.2.0
 matplotlib
